@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0c658091.css",
+    "main.js": "/portfolio/static/js/main.1498323f.js",
+    "static/js/453.b80f4111.chunk.js": "/portfolio/static/js/453.b80f4111.chunk.js",
+    "static/media/redux-selected.png": "/portfolio/static/media/redux-selected.b7dabf1e7fc7ce404560.png",
+    "static/media/react-selected.png": "/portfolio/static/media/react-selected.869ebd7acd051bdc1fba.png",
+    "static/media/react.png": "/portfolio/static/media/react.4ad7aeec790e57c28c43.png",
+    "static/media/next-selected.png": "/portfolio/static/media/next-selected.0b50ec4eed336507f47e.png",
+    "static/media/me.jpg": "/portfolio/static/media/me.155ba3930197eb7e6794.jpg",
+    "static/media/redux.png": "/portfolio/static/media/redux.08b60234fc137750ffaf.png",
+    "static/media/newbg.png": "/portfolio/static/media/newbg.7f508398a8bd0cb6140f.png",
+    "static/media/git.png": "/portfolio/static/media/git.b9d4a5178a7ec70e0301.png",
+    "static/media/git-selected.png": "/portfolio/static/media/git-selected.df46777efc34ba98d862.png",
+    "static/media/css-selected.png": "/portfolio/static/media/css-selected.6e33480858eb18c70738.png",
+    "static/media/Pacifico-Regular.woff2": "/portfolio/static/media/Pacifico-Regular.d75d5ecea13c228ed785.woff2",
+    "static/media/js-selected.png": "/portfolio/static/media/js-selected.4742d600613ac4470cb7.png",
+    "static/media/html-selected.png": "/portfolio/static/media/html-selected.8c6f64fc4f075ddbdccf.png",
+    "static/media/html.png": "/portfolio/static/media/html.17b47a05f7b9e221dbeb.png",
+    "static/media/css.png": "/portfolio/static/media/css.95591d8decc8cc8ecec6.png",
+    "static/media/next.png": "/portfolio/static/media/next.d47a679a8e3f6da678a2.png",
+    "static/media/js.png": "/portfolio/static/media/js.b76f98c963d37a3cbfb1.png",
+    "static/media/ts-selected.png": "/portfolio/static/media/ts-selected.f89ae674001515ce98df.png",
+    "static/media/ts.png": "/portfolio/static/media/ts.3c11a4de89da9c374062.png",
+    "static/media/WhatsApp-icon.png": "/portfolio/static/media/WhatsApp-icon.b77bd51c9dbf8e713f42.png",
+    "static/media/Telegram-icon.png": "/portfolio/static/media/Telegram-icon.e8a3965b5c6bdb380558.png",
+    "index.html": "/portfolio/index.html",
+    "main.0c658091.css.map": "/portfolio/static/css/main.0c658091.css.map",
+    "main.1498323f.js.map": "/portfolio/static/js/main.1498323f.js.map",
+    "453.b80f4111.chunk.js.map": "/portfolio/static/js/453.b80f4111.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c658091.css",
+    "static/js/main.1498323f.js"
+  ]
+}
