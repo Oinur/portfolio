@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react"
 import './/carousel.css'
+
 export function Carousel(){
     const [index, setIndex] = useState(0)
     const [visible, setVisible] = useState(false)
@@ -19,7 +20,7 @@ export function Carousel(){
             src : 'https://oinur.github.io/socialPage/'
         },
         {
-            img : './/333.png',
+            img : './/essa.png',
             title : 'Интернет-магазин',
             description : 'интернет-магазин с функцией покупки, фильтрации товаров',
             tools : ['HTML','CSS','JS','REACT','RTK','TS','NEXT.JS'],
