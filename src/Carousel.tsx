@@ -7,20 +7,23 @@ export function Carousel(){
         img : string,
         title : string,
         description : string,
-        tools : string[]
+        tools : string[],
+        src : string
     }
     const slides : carousel[] = [
         {
             img : './/socialpage.png',
             title : 'Социальная страница',
             description : 'соц.сеть с возможностью просматривать ленту новостей, лайкать, добавлять к себе на страницу и коментировать посты',
-            tools : ['HTML','CSS','JS','REACT','RTK','TS']
+            tools : ['HTML','CSS','JS','REACT','RTK','TS'],
+            src : 'https://oinur.github.io/socialPage/'
         },
         {
             img : './/333.png',
             title : 'Интернет-магазин',
             description : 'интернет-магазин с функцией покупки, фильтрации товаров',
-            tools : ['HTML','CSS','JS','REACT','RTK','TS','NEXT.JS']
+            tools : ['HTML','CSS','JS','REACT','RTK','TS','NEXT.JS'],
+            src : 'https://essa-nine.vercel.app/'
         },
     ]
 
@@ -51,7 +54,7 @@ export function Carousel(){
             <div className='carousel-block'>
               <button className='carousel-nav-btn prev' onClick={prev}>←</button>
                 <div className={`carousel-content ${visible ? 'show' : ''} `}>
-                    <img className="carousel-img" src={slide.img}></img>
+                    <a href={`${slide.src}`}><img className="carousel-img" src={slide.img}></img></a>
                     <div className='carousel-description'>
                         <h2>{slide.title}</h2>
                         <p>&nbsp;{slide.description}</p>

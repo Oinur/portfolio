@@ -12,7 +12,6 @@ function App() {
     setTimeout(() => {
       setIsVisible({...isVisible, aboutMe : true})
     }, 300)
-    
   },[])
 
   function scrollTop() {
